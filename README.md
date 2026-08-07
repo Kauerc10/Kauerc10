@@ -36,7 +36,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Atlas Notarial</h3>
+      <h3 align="center">🏛️ Atlas Notarial</h3>
       <p align="center">
         <a href="https://github.com/Kauerc10/Atlas_Notarial">
           <img src="https://img.shields.io/badge/Status-EM%20PRODUÇÃO-emerald?style=flat-square&logo=vercel" alt="Em Produção" />
@@ -58,7 +58,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Orçamentos CKF</h3>
+      <h3 align="center">💼 Orçamentos CKF</h3>
       <p align="center">
         <a href="https://github.com/Kauerc10/ckf-manutencao-orcamentos">
           <img src="https://img.shields.io/badge/Status-EM%20PRODUÇÃO-emerald?style=flat-square&logo=vercel" alt="Em Produção" />
@@ -87,7 +87,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">DocFacil</h3>
+      <h3 align="center">📜 DocFacil</h3>
       <p align="center">
         <a href="https://github.com/Kauerc10/docfacil">
           <img src="https://img.shields.io/badge/Status-EM%20DESENVOLVIMENTO-blue?style=flat-square&logo=github" alt="Em Desenvolvimento" />
@@ -107,7 +107,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Foli (Foli Lib)</h3>
+      <h3 align="center">🌿 Foli (Foli Lib)</h3>
       <p align="center">
         <a href="https://github.com/Kauerc10/foli">
           <img src="https://img.shields.io/badge/Status-OPEN%20SOURCE%20v1.0-emerald?style=flat-square&logo=npm" alt="v1.0 Estável" />

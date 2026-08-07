@@ -132,15 +132,6 @@
 
 ---
 
-### 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kauerc10&show_icons=true&theme=dark&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&bg_color=0f172a&border_color=1e293b&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauerc10&layout=compact&theme=dark&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a&border_color=1e293b&hide_border=true" alt="Linguagens Mais Utilizadas" />
-</div>
-
----
-
 <div align="center">
   <p><b>Kauê Ruon Cardoso © 2024–2026</b> • Desenvolvido com padrão rigoroso de arquitetura e segurança.</p>
 </div>

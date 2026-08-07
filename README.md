@@ -31,12 +31,12 @@
 
 ---
 
-### 🚀 Projetos Principais em Produção
+### Projetos Principais em Produção
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🏛️ Atlas Notarial</h3>
+      <h3 align="center">Atlas Notarial</h3>
       <p align="center">
         <a href="https://github.com/Kauerc10/Atlas_Notarial">
           <img src="https://img.shields.io/badge/Status-EM%20PRODUÇÃO-emerald?style=flat-square&logo=vercel" alt="Em Produção" />
@@ -58,7 +58,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">💼 Orçamentos CKF</h3>
+      <h3 align="center">Orçamentos CKF</h3>
       <p align="center">
         <a href="https://github.com/Kauerc10/ckf-manutencao-orcamentos">
           <img src="https://img.shields.io/badge/Status-EM%20PRODUÇÃO-emerald?style=flat-square&logo=vercel" alt="Em Produção" />
@@ -82,12 +82,12 @@
 
 ---
 
-### 🔬 Em Desenvolvimento & Ferramentas P&D
+### Em Desenvolvimento & Ferramentas P&D
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📜 DocFacil</h3>
+      <h3 align="center">DocFacil</h3>
       <p align="center">
         <a href="https://github.com/Kauerc10/docfacil">
           <img src="https://img.shields.io/badge/Status-EM%20DESENVOLVIMENTO-blue?style=flat-square&logo=github" alt="Em Desenvolvimento" />
@@ -107,7 +107,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌿 Foli (Foli Lib)</h3>
+      <h3 align="center">Foli (Foli Lib)</h3>
       <p align="center">
         <a href="https://github.com/Kauerc10/foli">
           <img src="https://img.shields.io/badge/Status-OPEN%20SOURCE%20v1.0-emerald?style=flat-square&logo=npm" alt="v1.0 Estável" />
@@ -131,7 +131,22 @@
 
 ---
 
-### 📈 Estatísticas & Ritmo de Desenvolvimento
+### Stack Tecnológico
+
+<div align="center">
+
+| Categoria | Tecnologias & Ferramentas |
+| :--- | :--- |
+| **Frontend** | `Next.js 16/15 (App Router)` • `React 18` • `TypeScript` • `Tailwind CSS` • `Framer Motion` • `GSAP 3` • `shadcn/ui` |
+| **Backend & Cloud** | `Node.js` • `Firebase (Auth, Firestore Multi-Tenant, RTDB)` • `Prisma ORM` • `Supabase` • `Server Actions` |
+| **PDF & Data Engines** | `Foli Lib` • `pdfmake` • `pdf-lib` • `Zod Schemas` • `Vitest` • `Gitleaks` |
+| **DevOps & Tooling** | `Bun` • `npm` • `GitHub Actions (CI/CD)` • `Vercel Edge Network` • `PowerShell CLI` |
+
+</div>
+
+---
+
+### Estatísticas
 
 <div align="center">
   <!-- Streak Stats Card -->
@@ -145,18 +160,7 @@
 
 ---
 
-### 🛠️ Stack Tecnológico & Ferramental
-
-```text
-  Frontend   :: Next.js 16 / 15 (App Router) | React 18 | TypeScript | Tailwind CSS | Framer Motion | GSAP 3 | shadcn/ui
-  Backend    :: Node.js | Firebase (Auth, Firestore Multi-Tenant, RTDB) | Prisma ORM | Supabase | Server Actions
-  PDF & Data :: Foli Lib | pdf-lib | pdfmake | Zod Schemas | Vitest | Gitleaks Scanner
-  Tooling    :: Bun | npm | GitHub Actions (CI/CD) | Vercel Edge Network | PowerShell CLI
-```
-
----
-
-### 🐍 Contribuições
+### Contribuições
 
 <div align="center">
   <picture>

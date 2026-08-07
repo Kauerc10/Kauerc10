@@ -4,7 +4,7 @@
   <!-- Typing SVG Animation -->
   <p align="center">
     <a href="https://kaueruon.dev">
-      <img src="https://readme-typing-svg.demolab.com/?lines=Founder+%40+K-HUB+Solu%C3%A7%C3%B5es+Digitais;Building+Enterprise+SaaS+%26+Cart%C3%B3rio+Tech;Next.js+16+%7C+TypeScript+%7C+Firebase+%7C+Bun&center=true&width=600&height=45&color=38BDF8&size=19" alt="Typing Header" />
+      <img src="https://readme-typing-svg.demolab.com/?lines=Founder+do+DocFacil;Building+Enterprise+SaaS+%26+Cart%C3%B3rio+Tech;Next.js+16+%7C+TypeScript+%7C+Firebase+%7C+Bun&center=true&width=600&height=45&color=38BDF8&size=19" alt="Typing Header" />
     </a>
   </p>
 

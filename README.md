@@ -171,10 +171,12 @@
   </picture>
 </div>
 
+<div align="center">
+  <code>// Quando escrevi este perfil, só Deus e eu sabíamos o que ele fazia. Agora, só Deus sabe.</code>
+</div>
+
 ---
 
 <div align="center">
-  <code>// Quando escrevi este perfil, só Deus e eu sabíamos o que ele fazia. Agora, só Deus sabe.</code>
-  <br/><br/>
   <p><b>Kauê Ruon Cardoso © 2024–2026</b> • Desenvolvido com arquitetura rigorosa, café forte e zero <code>console.log</code> em produção.</p>
 </div>

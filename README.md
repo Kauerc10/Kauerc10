@@ -4,7 +4,7 @@
   <!-- Typing SVG Animation -->
   <p align="center">
     <a href="https://kaueruon.dev">
-      <img src="https://readme-typing-svg.demolab.com/?lines=Founder+do+DocFacil;Building+Enterprise+SaaS+%26+Cart%C3%B3rio+Tech;Next.js+16+%7C+TypeScript+%7C+Firebase+%7C+Bun&center=true&width=600&height=45&color=38BDF8&size=19" alt="Typing Header" />
+      <img src="https://readme-typing-svg.demolab.com/?lines=Founder+do+DocFacil;Criador+do+Atlas+Notarial+%26+Or%C3%A7amentos+CKF;Author+of+Foli+Lib+(Type-Safe+PDF+Engine);Building+Enterprise+SaaS+%26+Cart%C3%B3rio+Tech;Next.js+16+%7C+TypeScript+%7C+Bun+%7C+npm+%7C+Firebase&center=true&width=650&height=45&color=38BDF8&size=19" alt="Typing Header" />
     </a>
   </p>
 
@@ -24,6 +24,7 @@
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
     <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
   </p>
 </div>
 

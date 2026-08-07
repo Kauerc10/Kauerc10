@@ -4,7 +4,7 @@
   <!-- Typing SVG Animation -->
   <p align="center">
     <a href="https://kaueruon.dev">
-      <img src="https://readme-typing-svg.demolab.com/?lines=Founder+do+DocFacil;%2F%2F+Se+funciona+em+produ%C3%A7%C3%A3o%2C+n%C3%A3o+touche.;Criador+do+Atlas+Notarial+%26+Or%C3%A7amentos+CKF;Author+of+Foli+Lib+(Type-Safe+PDF+Engine);Building+Enterprise+SaaS+%26+Cart%C3%B3rio+Tech;Next.js+16+%7C+TypeScript+%7C+Bun+%7C+npm+%7C+Firebase&center=true&width=650&height=45&color=38BDF8&size=19" alt="Typing Header" />
+      <img src="https://readme-typing-svg.demolab.com/?lines=Founder+do+DocFacil;%2F%2F+Se+funciona+em+produ%C3%A7%C3%A3o%2C+n%C3%A3o+toque.;Criador+do+Atlas+Notarial+%26+Or%C3%A7amentos+CKF;Author+of+Foli+Lib+(Type-Safe+PDF+Engine);Building+Enterprise+SaaS+%26+Cart%C3%B3rio+Tech;Next.js+16+%7C+TypeScript+%7C+Bun+%7C+npm+%7C+Firebase&center=true&width=650&height=45&color=38BDF8&size=19" alt="Typing Header" />
     </a>
   </p>
 

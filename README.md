@@ -140,6 +140,7 @@
 | **Frontend** | `Next.js 16/15 (App Router)` • `React 18` • `TypeScript` • `Tailwind CSS` • `Framer Motion` • `GSAP 3` • `shadcn/ui` |
 | **Backend & Cloud** | `Node.js` • `Firebase (Auth, Firestore Multi-Tenant, RTDB)` • `Prisma ORM` • `Supabase` • `Server Actions` |
 | **PDF & Data Engines** | `Foli Lib` • `pdfmake` • `pdf-lib` • `Zod Schemas` • `Vitest` • `Gitleaks` |
+| **LLMs & Eng. de IA** | `Antigravity` • `Claude Code` • `Codex` • `ZCode (GLM 5.2)` • `Engenharia de Prompts` |
 | **DevOps & Tooling** | `Bun` • `npm` • `GitHub Actions (CI/CD)` • `Vercel Edge Network` • `PowerShell CLI` |
 
 </div>

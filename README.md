@@ -1,15 +1,12 @@
 <div align="center">
   <h1 align="center">⚡ Kauê Ruon Cardoso</h1>
   <p align="center">
-    <b>Founder & Lead Software Architect @ K-HUB Soluções Digitais</b>
-  </p>
-  <p align="center">
     Construindo plataformas SaaS de alta performance, automação inteligente e sistemas enterprise para serventias extrajudiciais e cartórios.
   </p>
 
   <p align="center">
-    <a href="https://atlasnotarial.com.br/"><b>🌐 atlasnotarial.com.br</b></a> •
-    <a href="mailto:kaue.khubsolucoes@gmail.com"><b>✉️ kaue.khubsolucoes@gmail.com</b></a>
+    <a href="https://kaueruon.dev"><b>🌐 kaueruon.dev</b></a> •
+    <a href="mailto:kaue.ruon@gmail.com"><b>✉️ kaue.ruon@gmail.com</b></a>
   </p>
 
   <p align="center">
@@ -64,7 +61,7 @@
         <li><b>Cadastro de Orçamentos e Clientes</b> com histórico completo e filtros.</li>
         <li><b>Gestão de Usuários, Roles e Permissões</b> com controle de visibilidade.</li>
         <li><b>Trilha de Auditoria</b> e segurança de dados.</li>
-        <li><b>Exportação Automatizada</b> de relatórios em <b>PDF</b> e planilhas <b>XLS/XLSX (Excel)</b>.</li>
+        <li><b>Geração e Exportação de Orçamentos</b> em documentos <b>PDF</b> e planilhas <b>XLS/XLSX (Excel)</b>.</li>
       </ul>
       <p align="center">
         <a href="https://github.com/Kauerc10/ckf-manutencao-orcamentos"><b>📦 Ver Repositório Oficial »</b></a>
@@ -87,13 +84,13 @@
         </a>
       </p>
       <p>
-        Plataforma conversacional estilo <b>"Concierge Digital + Ateliê de Documentos"</b> para geração de documentos legais prontos sem burocracia.
+        Plataforma conversacional com estética de chat para facilitar a geração intuitiva de documentos legais sem burocracia.
       </p>
       <ul>
-        <li><b>Preenchimento Guiado por Chat</b> com preview do documento em tempo real.</li>
-        <li><b>Assinatura Visual Notarial</b> por selo/carimbo customizado.</li>
-        <li><b>UI de Alta Acessibilidade</b> pensada para o público leigo.</li>
-        <li><b>Stack</b>: Next.js 16, GSAP 3, Tailwind 4, Prisma ORM e Bun.</li>
+        <li><b>Estética de Chat Conversacional</b> para facilitar a geração e maximizar a intuitividade para clientes.</li>
+        <li><b>Geração de Documentos em PDF</b> alimentada por <code>pdfmake</code>.</li>
+        <li><b>Integração com IA em Desenvolvimento</b> para geração de modelos totalmente personalizados para clientes.</li>
+        <li><b>Stack</b>: Next.js 16, GSAP 3, Tailwind 4, Prisma ORM, pdfmake e Bun.</li>
       </ul>
       <p align="center">
         <a href="https://github.com/Kauerc10/docfacil"><b>📦 Ver Repositório DocFacil »</b></a>
@@ -145,5 +142,5 @@
 ---
 
 <div align="center">
-  <p><b>K-HUB Soluções Digitais © 2024–2026</b> • Desenvolvido com padrão rigoroso de arquitetura e segurança.</p>
+  <p><b>Kauê Ruon Cardoso © 2024–2026</b> • Desenvolvido com padrão rigoroso de arquitetura e segurança.</p>
 </div>

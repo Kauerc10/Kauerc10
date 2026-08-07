@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">⚡ Kauê Ruon Cardoso</h1>
+  <h1 align="center"> Kauê Ruon Cardoso</h1>
   <p align="center">
     Construindo plataformas SaaS de alta performance, automação inteligente e sistemas enterprise para serventias extrajudiciais e cartórios.
   </p>

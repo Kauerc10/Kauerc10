@@ -1,5 +1,13 @@
 <div align="center">
-  <h1 align="center"> Kauê Ruon Cardoso</h1>
+  <h1 align="center">⚡ Kauê Ruon Cardoso</h1>
+
+  <!-- Typing SVG Animation -->
+  <p align="center">
+    <a href="https://kaueruon.dev">
+      <img src="https://readme-typing-svg.demolab.com/?lines=Founder+%40+K-HUB+Solu%C3%A7%C3%B5es+Digitais;Building+Enterprise+SaaS+%26+Cart%C3%B3rio+Tech;Next.js+16+%7C+TypeScript+%7C+Firebase+%7C+Bun&center=true&width=600&height=45&color=38BDF8&size=19" alt="Typing Header" />
+    </a>
+  </p>
+
   <p align="center">
     Construindo plataformas SaaS de alta performance, automação inteligente e sistemas enterprise para serventias extrajudiciais e cartórios.
   </p>
@@ -118,6 +126,20 @@
     </td>
   </tr>
 </table>
+
+---
+
+### 📈 Estatísticas & Ritmo de Desenvolvimento
+
+<div align="center">
+  <!-- Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kauerc10&theme=dark&background=0F172A&stroke=1E293B&ring=38BDF8&fire=38BDF8&currStreakNum=F8FAFC&dates=94A3B8" alt="GitHub Streak Stats" />
+  
+  <br/><br/>
+  
+  <!-- Activity Graph SVG Card -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kauerc10&theme=react-dark&bg_color=0F172A&hide_border=true&color=38BDF8&line=38BDF8&point=F8FAFC" alt="Activity Graph" />
+</div>
 
 ---
 

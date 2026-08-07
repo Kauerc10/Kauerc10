@@ -174,5 +174,5 @@
 ---
 
 <div align="center">
-  <p><b>Kauê Ruon Cardoso © 2024–2026</b> • Desenvolvido com padrão rigoroso de arquitetura e segurança.</p>
+  <p><b>Kauê Ruon Cardoso © 2024–2026</b> • Desenvolvido com arquitetura rigorosa, café forte e zero <code>console.log</code> em produção.</p>
 </div>

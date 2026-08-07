@@ -13,7 +13,7 @@
   </p>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Next.js%2015-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js 15" />
+    <img src="https://img.shields.io/badge/Next.js%2016-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/React%2018-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React 18" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
@@ -42,32 +42,32 @@
         Bancada digital institucional e ecossistema multi-tenant completo para <b>serventias extrajudiciais e cartórios</b>. 
       </p>
       <ul>
-        <li><b>Isolamento Multi-Tenant Físico</b> por Firestore Database.</li>
+        <li><b>Isolamento Multi-Tenant Físico</b> por Firestore Database por cartório.</li>
         <li><b>Automação Notarial</b> (Veículos, E-Gaveta, Declarações e Orçamentos).</li>
         <li><b>Compliance Legal total</b> com Provimentos CNJ nº 213/2026, 243/2026, 134/2022 (LGPD) e carimbo de tempo/hash SHA-256 no servidor.</li>
-        <li><b>IA Assistente Integrada (ÆEVO)</b> alimentada por Google Genkit & Gemini API.</li>
       </ul>
       <p align="center">
         <a href="https://atlasnotarial.com.br/"><b>🌐 Visitar atlasnotarial.com.br »</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">💼 CKF</h3>
+      <h3 align="center">💼 Orçamentos CKF</h3>
       <p align="center">
-        <a href="https://github.com/Kauerc10">
+        <a href="https://github.com/Kauerc10/ckf-manutencao-orcamentos">
           <img src="https://img.shields.io/badge/Status-EM%20PRODUÇÃO-emerald?style=flat-square&logo=vercel" alt="Em Produção" />
         </a>
       </p>
       <p>
-        Plataforma operacional corporativa e sistema de alta velocidade para gestão de processos e inteligência de negócios da K-HUB.
+        Sistema interno de gestão e controle de orçamentos e clientes com controle total de acesso e auditoria.
       </p>
       <ul>
-        <li><b>Interface Ultra-Responsiva</b> orientada à experiência do usuário (UX/UI).</li>
-        <li><b>Arquitetura de Dados Resiliente</b> com sincronização em tempo real.</li>
-        <li><b>Otimizações Avançadas de Performance</b> e consumo mínimo de recursos.</li>
+        <li><b>Cadastro de Orçamentos e Clientes</b> com histórico completo e filtros.</li>
+        <li><b>Gestão de Usuários, Roles e Permissões</b> com controle de visibilidade.</li>
+        <li><b>Trilha de Auditoria</b> e segurança de dados.</li>
+        <li><b>Exportação Automatizada</b> de relatórios em <b>PDF</b> e planilhas <b>XLS/XLSX (Excel)</b>.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/Kauerc10"><b>📦 Ver Repositório Oficial »</b></a>
+        <a href="https://github.com/Kauerc10/ckf-manutencao-orcamentos"><b>📦 Ver Repositório Oficial »</b></a>
       </p>
     </td>
   </tr>
@@ -75,19 +75,61 @@
 
 ---
 
-### 🔬 Em Desenvolvimento & P&D
+### 🔬 Em Desenvolvimento & Ferramentas P&D
 
-- ⚡ **Ecossistema K-HUB**: Módulos de inteligência preditiva e expansão SaaS para cartórios de Notas, Registro Civil, Protesto e Registro de Imóveis.
-- 🤖 **Agentes Notariais com IA Generativa**: Automação avançada de minutas notariais baseada no Código Nacional de Normas do CNJ.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📜 DocFacil</h3>
+      <p align="center">
+        <a href="https://github.com/Kauerc10/docfacil">
+          <img src="https://img.shields.io/badge/Status-EM%20DESENVOLVIMENTO-blue?style=flat-square&logo=github" alt="Em Desenvolvimento" />
+        </a>
+      </p>
+      <p>
+        Plataforma conversacional estilo <b>"Concierge Digital + Ateliê de Documentos"</b> para geração de documentos legais prontos sem burocracia.
+      </p>
+      <ul>
+        <li><b>Preenchimento Guiado por Chat</b> com preview do documento em tempo real.</li>
+        <li><b>Assinatura Visual Notarial</b> por selo/carimbo customizado.</li>
+        <li><b>UI de Alta Acessibilidade</b> pensada para o público leigo.</li>
+        <li><b>Stack</b>: Next.js 16, GSAP 3, Tailwind 4, Prisma ORM e Bun.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Kauerc10/docfacil"><b>📦 Ver Repositório DocFacil »</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌿 Foli (Foli Lib)</h3>
+      <p align="center">
+        <a href="https://github.com/Kauerc10/foli">
+          <img src="https://img.shields.io/badge/Status-OPEN%20SOURCE%20v1.0-emerald?style=flat-square&logo=npm" alt="v1.0 Estável" />
+        </a>
+      </p>
+      <p>
+        Framework e motor de layout PDF moderno, estritamente tipado para TypeScript e JavaScript com <b>garantia de zero estouro de página (zero page-overflow)</b>.
+      </p>
+      <ul>
+        <li><b>Fluent Builder API</b> fluente e expansível para construção de documentos.</li>
+        <li><b>Motor de Layout por Métricas Reais</b> de fonte (quebra de página automática).</li>
+        <li><b>Suporte a DSL Declarativa</b> para compilação sintática em texto puro.</li>
+        <li><b>Suporte Unicode Nativo</b> (pt-BR) e tabelas flexíveis.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Kauerc10/foli"><b>📦 Ver Repositório Foli »</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🛠️ Stack Tecnológico & Ferramental
 
 ```text
-  Frontend   :: Next.js 15 (App Router) | React 18 | TypeScript | Tailwind CSS | Framer Motion | shadcn/ui
-  Backend    :: Node.js | Firebase (Auth, Firestore Multi-Tenant, RTDB) | Server Actions | Resend API
-  AI & Data  :: Google Genkit | Gemini 2.0 Flash / Pro | Zod Schemas | Vitest | Gitleaks Scanner
+  Frontend   :: Next.js 16 / 15 (App Router) | React 18 | TypeScript | Tailwind CSS | Framer Motion | GSAP 3 | shadcn/ui
+  Backend    :: Node.js | Firebase (Auth, Firestore Multi-Tenant, RTDB) | Prisma ORM | Supabase | Server Actions
+  PDF & Data :: Foli Lib | pdf-lib | pdfmake | Zod Schemas | Vitest | Gitleaks Scanner
   Tooling    :: Bun | npm | GitHub Actions (CI/CD) | Vercel Edge Network | PowerShell CLI
 ```
 

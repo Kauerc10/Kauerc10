@@ -25,6 +25,7 @@
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
     <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+    <a href="https://linkedin.com/in/kauerc"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   </p>
 </div>
 
@@ -152,6 +153,18 @@
   PDF & Data :: Foli Lib | pdf-lib | pdfmake | Zod Schemas | Vitest | Gitleaks Scanner
   Tooling    :: Bun | npm | GitHub Actions (CI/CD) | Vercel Edge Network | PowerShell CLI
 ```
+
+---
+
+### 🐍 Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kauerc10/Kauerc10/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kauerc10/Kauerc10/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/Kauerc10/Kauerc10/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
 
 ---
 

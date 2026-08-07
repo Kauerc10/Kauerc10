@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">⚡ Kauê Ruon Cardoso</h1>
+  <h1 align="center"> Kauê Ruon Cardoso</h1>
 
   <!-- Typing SVG Animation -->
   <p align="center">

@@ -178,5 +178,5 @@
 ---
 
 <div align="center">
-  <p><b>Kauê Ruon Cardoso © 2024–2026</b> • Desenvolvido com arquitetura rigorosa, café forte e zero <code>console.log</code> em produção.</p>
+  <p><b>Kauê Ruon Cardoso © 2024–2026</b> • Desenvolvido com arquitetura rigorosa, café forte e muito energético.</p>
 </div>

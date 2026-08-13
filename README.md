@@ -4,12 +4,12 @@
   <!-- Typing SVG Animation -->
   <p align="center">
     <a href="https://kaueruon.dev">
-      <img src="https://readme-typing-svg.demolab.com/?lines=Founder+do+DocFacil;%2F%2F+Se+funciona+em+produ%C3%A7%C3%A3o%2C+n%C3%A3o+toque.;Criador+do+Atlas+Notarial+%26+Or%C3%A7amentos+CKF;Author+of+Foli+Lib+(Type-Safe+PDF+Engine);Building+Enterprise+SaaS+%26+Cart%C3%B3rio+Tech;Next.js+16+%7C+TypeScript+%7C+Bun+%7C+npm+%7C+Firebase&center=true&width=650&height=45&color=38BDF8&size=19" alt="Typing Header" />
+      <img src="https://readme-typing-svg.demolab.com/?lines=Founder+do+DocFacil;%2F%2F+Se+funciona+em+produ%C3%A7%C3%A3o%2C+n%C3%A3o+toque.;Criador+do+Atlas+Notarial+%26+Or%C3%A7amentos+CKF;Author+of+Foli+Lib+(Type-Safe+PDF+Engine);Building+SaaS+%26+Cart%C3%B3rio+Tech;Next.js+15%2F16+%7C+TypeScript+%7C+Bun+%7C+npm+%7C+Firebase&center=true&width=650&height=45&color=38BDF8&size=19" alt="Typing Header" />
     </a>
   </p>
 
   <p align="center">
-    Construindo plataformas SaaS de alta performance, automação inteligente e sistemas enterprise para serventias extrajudiciais e cartórios.
+    Construindo plataformas SaaS, automação inteligente e sistemas digitais para serventias extrajudiciais e cartórios.
   </p>
 
   <p align="center">
@@ -18,9 +18,9 @@
   </p>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Next.js%2016-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Next.js%2015%2F16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js 15/16" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/React%2018-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React 18" />
+    <img src="https://img.shields.io/badge/React%2019-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React 19" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
     <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
@@ -46,12 +46,12 @@
         </a>
       </p>
       <p>
-        Bancada digital institucional e ecossistema multi-tenant completo para <b>serventias extrajudiciais e cartórios</b>. 
+        Bancada digital institucional e ecossistema multi-tenant completo para <b>serventias extrajudiciais e cartórios</b>.
       </p>
       <ul>
         <li><b>Isolamento Multi-Tenant Físico</b> por Firestore Database por cartório.</li>
         <li><b>Automação Notarial</b> (Veículos, E-Gaveta, Declarações e Orçamentos).</li>
-        <li><b>Compliance Legal total</b> com Provimentos CNJ nº 213/2026, 243/2026, 134/2022 (LGPD) e carimbo de tempo/hash SHA-256 no servidor.</li>
+        <li><b>Segurança e rastreabilidade</b> com validações, controles de acesso e registros de auditoria.</li>
       </ul>
       <p align="center">
         <a href="https://atlasnotarial.com.br/"><b>🌐 Visitar atlasnotarial.com.br »</b></a>
@@ -65,7 +65,7 @@
         </a>
       </p>
       <p>
-        Sistema interno de gestão e controle de orçamentos e clientes com controle total de acesso e auditoria.
+        Sistema interno de gestão e controle de orçamentos e clientes com controle de acesso e auditoria.
       </p>
       <ul>
         <li><b>Cadastro de Orçamentos e Clientes</b> com histórico completo e filtros.</li>
@@ -114,7 +114,7 @@
         </a>
       </p>
       <p>
-        Framework e motor de layout PDF moderno, estritamente tipado para TypeScript e JavaScript com <b>garantia de zero estouro de página (zero page-overflow)</b>.
+        Framework e motor de layout PDF moderno, estritamente tipado para TypeScript e JavaScript, com foco em evitar estouro de página.
       </p>
       <ul>
         <li><b>Fluent Builder API</b> fluente e expansível para construção de documentos.</li>
@@ -137,7 +137,7 @@
 
 | Categoria | Tecnologias & Ferramentas |
 | :--- | :--- |
-| **Frontend** | `Next.js 16/15 (App Router)` • `React 18` • `TypeScript` • `Tailwind CSS` • `Framer Motion` • `GSAP 3` • `shadcn/ui` |
+| **Frontend** | `Next.js 15/16 (App Router)` • `React 19` • `TypeScript` • `Tailwind CSS` • `Framer Motion` • `GSAP 3` • `shadcn/ui` |
 | **Backend & Cloud** | `Node.js` • `Firebase (Auth, Firestore Multi-Tenant, RTDB)` • `Prisma ORM` • `Supabase` • `Server Actions` |
 | **PDF & Data Engines** | `Foli Lib` • `pdfmake` • `pdf-lib` • `Zod Schemas` • `Vitest` • `Gitleaks` |
 | **LLMs & Eng. de IA** | `Antigravity` • `Claude Code` • `Codex` • `ZCode (GLM 5.2)` • `Engenharia de Prompts` |
@@ -152,9 +152,9 @@
 <div align="center">
   <!-- Streak Stats Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kauerc10&theme=dark&background=0F172A&stroke=1E293B&ring=38BDF8&fire=38BDF8&currStreakNum=F8FAFC&dates=94A3B8" alt="GitHub Streak Stats" />
-  
+
   <br/><br/>
-  
+
   <!-- Activity Graph SVG Card -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kauerc10&theme=react-dark&bg_color=0F172A&hide_border=true&color=38BDF8&line=38BDF8&point=F8FAFC" alt="Activity Graph" />
 </div>
